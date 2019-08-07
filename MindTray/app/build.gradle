@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.example.mindtray"
+        minSdkVersion 19
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    //compile files('libs/android-support-v4.jar')
+    compile 'com.android.support:appcompat-v7:25.1.0'
+}
+
+task addBuildNo {
+    def file = new File(projectDir, "src/main/java/build/BuildInfo.java")
+
+    file.delete()
+
+    def dateS = new Date().format("MM/dd/yyyy hh:mm aa");
+
+    file << "package build;\n"
+
+    file << "public class BuildInfo {\n"
+        file << "    public final static String BUILD_TIME = "
+        file << "\"" << dateS << "\"";
+        file << ";\n"
+    file << "}"
+    //def codeModel = new JCodeModel();
+}
+
+preBuild.dependsOn addBuildNo

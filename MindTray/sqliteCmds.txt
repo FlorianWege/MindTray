@@ -1,0 +1,5 @@
+cd data/data/moonlightflower.com.mindtray
+
+cd databases
+
+sqlite3 mind.db

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MindTray</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_description">Unload your thoughts in this memo app using textual, audio and image contents.\n\nThe calendar enables you to link memos to dates.</string>
+    <string name="title_activity_memoList">MemoListActivity</string>
+    <string name="title_activity_memo">MemoActivity</string>
+
+</resources>

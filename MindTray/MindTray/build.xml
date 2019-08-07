@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="HW.makejar" default="versioninfo" basedir=".">
+    <!-- ================================= 
+     target: versioninfo              
+     ================================= -->
+    <target name="versioninfo"
+            description="gets version info from svn"
+    >
+
+    	<tstamp>
+    	      <format property="touch.time" pattern="MM/dd/yyyy hh:mm aa"
+    	              offset="0" unit="hour"/>
+    	  </tstamp>
+    	
+    	<echo file="src/build/BuildInfo.java">package build; public class BuildInfo { public final static String BUILD="${touch.time}"; }</echo>
+
+    </target>
+</project>

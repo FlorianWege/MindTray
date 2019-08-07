@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\memo_content.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\memo_content.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\memo_list.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\memo_list.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\memo_list_item.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\memo_list_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\memos.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\memos.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\menu\\memo.xml",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\menu\\memo.xml"
+    }
+]

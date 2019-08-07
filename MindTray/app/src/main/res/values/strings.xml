@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MindTray</string>
+    
+    <!--main-->
+    <string name="main_title">MindTray</string>
+    <string name="main_description">Unload your most valuable thoughts in this unique memo app using textual, audio and image contents.\n\nThe calendar enables you to link memos to distinct dates.</string>
+    <string name="main_button_memos">Memos</string>
+    <string name="main_button_calendar">Calendar</string>
+    <string name="main_button_exit">Exit</string>
+    <string name="main_buildNo">Build No</string>
+    
+    <!--calendar-->
+    <string name="calendar_title">Calendar</string>
+    <string name="calendar_button_incMonth">&gt;&gt;</string>
+    <string name="calendar_button_decMonth">&lt;&lt;</string>
+    <string name="calendar_button_back">Back</string>
+    
+    <!--memolist-->
+    <string name="memolist_title">All memos (%1$s)</string>
+    <string name="memolist_title_with_date">Memos of %1$s (%2$s)</string>
+    <string name="memolist_button_create">Create new</string>
+    <string name="memolist_button_back">Back</string>
+    <string name="memolist_button_back_calendar">Back to calendar</string>
+    <string name="memolist_button_back_main">Back to main</string>
+    <string name="memolist_error_no_name">No name was given.</string>
+    
+    <!--memo-->
+    <string name="memo_title">Memo</string>
+    
+    <!--new_memo-->
+    <string name="new_memo_title">Please enter a name:</string>
+    <string name="new_memo_checkBox_startMemo">Open memo on add</string>
+    <string name="new_memo_button_add">Add</string>
+    <string name="new_memo_button_cancel">Cancel</string>
+    <string name="new_memo_error_no_name">A memo requires a name</string>
+
+    <!--new_memo-->
+    <string name="edit_memo_button_ok">OK</string>
+    <string name="edit_memo_button_cancel">Cancel</string>
+    
+    <!--image_content-->
+    <string name="image_content_imageView">&lt;image&gt;</string>
+    
+    <!--new_memo_content-->
+    <string name="new_memo_content_name">Name:</string>
+    <string name="new_memo_content_text">Text:</string>
+    <string name="new_memo_content_radio_text">Text</string>
+    <string name="new_memo_content_radio_image">Image</string>
+    <string name="new_memo_content_radio_audio">Audio</string>
+    <string name="new_memo_content_button_loadFromGallery">load from gallery</string>
+    <string name="new_memo_content_button_takePicture">take a picture</string>
+    <string name="new_memo_content_button_toggle">ToggleButton</string>
+    <string name="new_memo_content_button_record">Record</string>
+    <string name="new_memo_content_button_play">Play</string>
+    <string name="new_memo_content_button_play_on">Stop playing</string>
+    <string name="new_memo_content_button_play_off">Start playing</string>
+    <string name="new_memo_content_button_record_on">Stop recording</string>
+    <string name="new_memo_content_button_record_off">Start recording</string>
+    <string name="new_memo_content_button_addContent">add content</string>
+    
+
+</resources>

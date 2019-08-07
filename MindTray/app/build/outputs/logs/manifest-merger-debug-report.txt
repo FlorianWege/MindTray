@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:8:22-78
+uses-sdk
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:12:9-38
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:11:9-35
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:14:5-56:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] H:\AndroidStudioProjects\MindTray\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:18:9-37
+activity#com.example.mindtray.MainActivity
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:20:13-83
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.mindtray.memolist.MemoListActivity
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:30:9-43:20
+	android:screenOrientation
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:33:13-51
+	android:configChanges
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:31:13-83
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:32:13-54
+intent-filter#android.intent.action.SEARCH
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:36:13-38:29
+action#android.intent.action.SEARCH
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:37:17-70
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:37:25-68
+meta-data#android.app.searchable
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:39:13-42:15
+	android:resource
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:41:17-47
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:40:17-54
+activity#com.example.mindtray.memo.MemoActivity
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:47:13-47
+	android:configChanges
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:45:13-71
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:46:5-58
+activity#com.example.mindtray.CalendarActivity
+ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:50:9-55:20
+	android:screenOrientation
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:54:13-50
+	android:label
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:53:13-51
+	android:configChanges
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:51:13-83
+	android:name
+		ADDED from H:\AndroidStudioProjects\MindTray\app\src\main\AndroidManifest.xml:52:5-57

@@ -1,0 +1,20 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Light" parent="android:Theme.Light.NoTitleBar">
+        <!--<item name="android:panelBackground">@drawable/menu_hardkey_panel_holo_light</item>-->
+    </style>
+    <style name="Action" parent="android:Theme.Light">
+        <item name="android:windowActionBar">true</item>
+    </style>
+    <style name="Buttons" parent="@android:style/Widget.Button">
+    	<item name="android:fontFamily">sans-serif-light</item>
+	</style>
+
+    <style name="ButtonsNorm" parent="@android:style/Widget.Button">
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="MemoListActivity" parent="Theme.AppCompat.Light">
+    </style>
+
+</resources>

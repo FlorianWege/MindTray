@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Light" parent="android:Theme.Light.NoTitleBar"></style>
+    <style name="Action" parent="android:Theme.Light">
+        <item name="android:windowActionBar">True</item>
+    </style>
+    <style name="Buttons" parent="@android:style/Widget.Button">
+    	<item name="android:fontFamily">sans-serif-light</item>
+	</style>
+
+</resources>

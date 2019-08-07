@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\MindTray\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launcher.png",
+        "source": "H:\\AndroidStudioProjects\\MindTray\\app\\src\\main\\res\\mipmap-hdpi\\launcher.png"
+    }
+]

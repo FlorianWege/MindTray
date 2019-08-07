@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="11705478793912"
+    token="2696840082406369337"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="11731" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="837" />
+    <task
+        name="verifier"
+        duration="384" />
+
+    <artifact
+        location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="7046185678369"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8873104208044"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="11705478793912"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="H:\AndroidStudioProjects\MindTray\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
